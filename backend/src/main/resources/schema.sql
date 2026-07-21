@@ -1,0 +1,1 @@
+-- Disabled PostGIS automatic activation
